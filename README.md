@@ -9,6 +9,7 @@ Gang of Four
   * Abstract Factory
 2. Structural
   * Decorator
+  * Observer
 2. Behavioral
   * Visitor 
 
