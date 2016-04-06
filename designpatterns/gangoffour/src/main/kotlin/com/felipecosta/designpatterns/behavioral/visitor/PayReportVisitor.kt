@@ -1,4 +1,4 @@
-package com.felipecosta.designpatterns.behavioral
+package com.felipecosta.designpatterns.behavioral.visitor
 
 import java.math.BigDecimal
 

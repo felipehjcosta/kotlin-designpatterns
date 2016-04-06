@@ -1,4 +1,4 @@
-package com.felipecosta.designpatterns.structural
+package com.felipecosta.designpatterns.structural.decorator
 
 interface Coffee {
     fun getCost(): Double

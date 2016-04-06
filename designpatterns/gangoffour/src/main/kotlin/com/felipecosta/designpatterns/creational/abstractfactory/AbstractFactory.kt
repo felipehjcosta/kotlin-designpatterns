@@ -1,4 +1,4 @@
-package com.felipecosta.designpatterns.creational
+package com.felipecosta.designpatterns.creational.abstractfactory
 
 open class Maze {
 
