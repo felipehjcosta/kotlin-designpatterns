@@ -7,6 +7,7 @@ Gang of Four
 
 1. Creational
   * Abstract Factory
+  * Singleton
 2. Structural
   * Decorator
   * Observer
