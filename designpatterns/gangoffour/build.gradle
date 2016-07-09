@@ -1,5 +1,5 @@
 group 'com.felipecosta.designpatterns'
-version '1.0-SNAPSHOT'
+version '1.0.0'
 
 apply plugin: 'kotlin'
 
@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-    compile "org.jetbrains.kotlin:kotlin-stdlib:1.0.0"
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }
