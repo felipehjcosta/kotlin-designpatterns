@@ -1,4 +1,4 @@
-package com.felipecosta.designpatterns.structural.observer
+package com.felipecosta.designpatterns.behavioral.observer
 
 interface Observer {
     fun update(subject: Subject)
